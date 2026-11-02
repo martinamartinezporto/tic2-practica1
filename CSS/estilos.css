@@ -1,0 +1,22 @@
+.body {
+    font-family: Arial, sans-serif;
+    color: #000000;
+  }
+  
+.h1 {
+    color: #636363;
+  }
+  
+  
+.recursos {
+    border: 1px solid #020C52;
+    padding: 1rem;
+  }
+ 
+ul {list-style-type: circle;}
+  
+.dashed {border-style: dashed;}
+  
+a:hover {
+    color: rgb(240, 8, 170);
+  }
