@@ -20,3 +20,10 @@ ul {list-style-type: circle;}
 a:hover {
     color: rgb(240, 8, 170);
   }
+ 
+.salida{
+  font-family:georgia;
+  color: #474747;
+  background-color: rgb(255, 182, 249);
+  opacity: 0.3
+}
