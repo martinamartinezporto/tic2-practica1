@@ -23,7 +23,15 @@ a:hover {
  
 .salida{
   font-family:georgia;
-  color: #474747;
+  color: #000000;
   background-color: rgb(255, 182, 249);
   opacity: 0.3
+}
+
+.pdf{
+  background-color: #c5e8ff;
+  color: white;
+  text-align: center;
+  padding: 20px;
+font-size: 16px; 
 }
