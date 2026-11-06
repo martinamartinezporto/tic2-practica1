@@ -35,3 +35,10 @@ a:hover {
   padding: 20px;
 font-size: 16px; 
 }
+
+.cabecera_tabla{
+  display:inline-block;
+}
+.fondo {
+  background-color: rgb(255, 241, 250);
+}
